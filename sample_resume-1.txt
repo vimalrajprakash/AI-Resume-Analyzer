@@ -1,0 +1,20 @@
+Final-year B.Tech Computer Science and Business Systems student with hands-on experience in
+Java, Python, Git, GitHub, Docker, Kubernetes, Jenkins, and AWS EC2, S3. Built and deployed
+an automated CI/CD pipeline that streamlined build and release workflows, and an IoT-based
+smart doorbell system integrating hardware with real-time mobile alerts. Strong foundation in
+Data Structures and Algorithms, Linux, and REST API concepts, with a National-Level Symposium
+1st Prize in code debugging.
+
+Technical Skills: Java, Python, C, Data Structures and Algorithms, AWS EC2, S3, Docker,
+Kubernetes, Jenkins, CI/CD Pipelines, Git, GitHub, Linux Shell, REST APIs, SQL, JSON, Jira,
+Agile Methodology, Version Control, Application Monitoring, Problem Solving, Logical Thinking,
+Team Collaboration, Communication.
+
+Engineered an end-to-end CI/CD pipeline using Git, Jenkins, and AWS EC2, automating build,
+test, and deployment stages, cutting manual release effort by an estimated 40 percent.
+Configured version-controlled branching workflows and automated deployment scripts, improving
+release consistency and reducing production errors. Set up application monitoring and logging
+to proactively detect failures.
+
+Designed and built an IoT-based smart doorbell using sensors and a microcontroller to detect
+visitors and trigger real-time alerts, with remote mobile notifications.

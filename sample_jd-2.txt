@@ -1,0 +1,8 @@
+AI/ML Research Internship at SuperKalam. This role is for someone who has previously worked
+on both traditional ML techniques and generative agentic workflows and wishes to work in a
+high pace environment. SuperKalam is revolutionizing personalized education with AI-driven
+mentorship tailored to each student's unique needs. Skills required: Node.js, Python, Machine
+Learning. The interview process evaluates your scientific approach to problem statements and
+solutioning, followed by a technical round covering ML and software engineering fundamentals.
+We are looking for a super pumped AI/ML engineer with high energy and good ownership and
+communication.
